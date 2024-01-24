@@ -1,4 +1,4 @@
-# CULTURAMA - IC
+# Site de eventos da ICSJC
 ![Static Badge](https://img.shields.io/badge/EM%20ANDAMENTO-%20-%20GREEN)
 </p>
 
@@ -6,9 +6,9 @@
 
 | :placard: Vitrine.Dev |  Projeto desenvolvido através dos cursos da ALURA   |
 | -------------  | --- |
-| :sparkles: Nome        | **CULTURAMA - IC**
+| :sparkles: Nome        | **Eventos - IC**
 | :label: Tecnologias | HTML / CSS - FLEXBOX
-| :rocket: URL         | https://conecttheo.github.io/Culturama-FlexBox/
+| :rocket: URL         | 
 
 <h3>PÁGINA INICIAL<h3/>
   
